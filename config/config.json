@@ -1,0 +1,11 @@
+{
+  "browser": "chrome",
+  "browser_options": {
+    "window_size": "--start-fullscreen",
+    "incognito": true
+  },
+  "base_url": "https://demoqa.com/",
+  "wait_time": 10,
+  "logger_level": "INFO",
+  "data_path": "test_data/users.json"
+}
