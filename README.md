@@ -3,8 +3,7 @@ Introduction
 
 This repository contains a custom framework based
 on the PageObject pattern with Selenium and Python (PyTest + Selenium),
-developed during the process of testing the (https://demoqa.com) site 
-within the 'Task3''at the stage of traineeship at the "TK"
+developed during the process of testing the (https://demoqa.com) site
 
 
 Files
